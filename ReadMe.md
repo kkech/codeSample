@@ -8,7 +8,7 @@ The repository structure is :
     * Bridge-Visitor Design Pattern Example
     * Spring Boot Simple Project(JPA,REST Controllers)
 2.  ANDROID
-    * S05.01-Exercise-AsyncTaskLoader
+    * S05.01-Exercise-AsyncTaskLoader(It contains code from Udacity)
     
 Those projects demonstrating my coding habits(curly braces on the same line :P and more!).
 
